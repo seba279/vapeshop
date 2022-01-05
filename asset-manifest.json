@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/vapeshop/static/css/main.13e3184c.chunk.css",
+    "main.js": "/vapeshop/static/js/main.b3060908.chunk.js",
+    "main.js.map": "/vapeshop/static/js/main.b3060908.chunk.js.map",
+    "runtime-main.js": "/vapeshop/static/js/runtime-main.6d4f7265.js",
+    "runtime-main.js.map": "/vapeshop/static/js/runtime-main.6d4f7265.js.map",
+    "static/css/2.58a45539.chunk.css": "/vapeshop/static/css/2.58a45539.chunk.css",
+    "static/js/2.bfaa8b32.chunk.js": "/vapeshop/static/js/2.bfaa8b32.chunk.js",
+    "static/js/2.bfaa8b32.chunk.js.map": "/vapeshop/static/js/2.bfaa8b32.chunk.js.map",
+    "static/js/3.11d91231.chunk.js": "/vapeshop/static/js/3.11d91231.chunk.js",
+    "static/js/3.11d91231.chunk.js.map": "/vapeshop/static/js/3.11d91231.chunk.js.map",
+    "index.html": "/vapeshop/index.html",
+    "static/css/2.58a45539.chunk.css.map": "/vapeshop/static/css/2.58a45539.chunk.css.map",
+    "static/css/main.13e3184c.chunk.css.map": "/vapeshop/static/css/main.13e3184c.chunk.css.map",
+    "static/js/2.bfaa8b32.chunk.js.LICENSE.txt": "/vapeshop/static/js/2.bfaa8b32.chunk.js.LICENSE.txt",
+    "static/media/atomizador1.a98e07b7.png": "/vapeshop/static/media/atomizador1.a98e07b7.png",
+    "static/media/atomizador2.d4aa2ba6.png": "/vapeshop/static/media/atomizador2.d4aa2ba6.png",
+    "static/media/banner01.422229d1.png": "/vapeshop/static/media/banner01.422229d1.png",
+    "static/media/banner02.3e6b17ca.png": "/vapeshop/static/media/banner02.3e6b17ca.png",
+    "static/media/cartucho1.d87ce66a.png": "/vapeshop/static/media/cartucho1.d87ce66a.png",
+    "static/media/cartucho2.d7f6a28c.png": "/vapeshop/static/media/cartucho2.d7f6a28c.png",
+    "static/media/cartucho3.0a4e1804.png": "/vapeshop/static/media/cartucho3.0a4e1804.png",
+    "static/media/liquido1.e808eecf.png": "/vapeshop/static/media/liquido1.e808eecf.png",
+    "static/media/liquido2.b6bf5b36.png": "/vapeshop/static/media/liquido2.b6bf5b36.png",
+    "static/media/liquido3.d1f2d5a8.png": "/vapeshop/static/media/liquido3.d1f2d5a8.png",
+    "static/media/vaporizador3.5be7e4c1.png": "/vapeshop/static/media/vaporizador3.5be7e4c1.png",
+    "static/media/vaporizador4.4b2316e4.png": "/vapeshop/static/media/vaporizador4.4b2316e4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d4f7265.js",
+    "static/css/2.58a45539.chunk.css",
+    "static/js/2.bfaa8b32.chunk.js",
+    "static/css/main.13e3184c.chunk.css",
+    "static/js/main.b3060908.chunk.js"
+  ]
+}
